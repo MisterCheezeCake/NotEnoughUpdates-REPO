@@ -69,7 +69,8 @@
       "divine_gift",
       "tabasco",
       "ultimate_duplex",
-      "vicious"
+      "vicious",
+      "toxophilite"
     ],
     "AXE": [
       "efficiency",
@@ -863,7 +864,7 @@
     ],
     "flame": [
       25,
-      0
+      50
     ],
     "infinite_quiver": [
       10,
@@ -1381,6 +1382,9 @@
       68,
       82
     ],
+    "toxophilite": [
+      25
+    ],
     "one_for_all": [
       50
     ],
@@ -1558,7 +1562,18 @@
     "experience": 3,
     "efficiency": 5,
     "harvesting": 5,
-    "piscary": 5
+    "piscary": 5,
+    "spiked_hook": 5,
+    "caster": 5,
+    "frail": 5,
+    "angler": 5,
+    "chance": 3,
+    "power": 5,
+    "infinite_quiver": 5,
+    "lure": 5,
+    "magnet": 5,
+    "luck_of_the_sea": 5,
+    "scavenger": 3
   },
   "enchant_mapping_id": [
     "prosecute",
